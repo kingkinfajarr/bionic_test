@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1045589824734",
+    "project_id": "bionic-tech",
+    "storage_bucket": "bionic-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045589824734:android:87212c65b1b0f9d0cdde4f",
+        "android_client_info": {
+          "package_name": "com.bionictech.test.bionic_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045589824734-8j6kjs5r9j9v6nsrl3u221mr9sl199nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bionictech.test.bionic_tech",
+            "certificate_hash": "548a0689c53fd5e79de1de637f8ca8b526d4c054"
+          }
+        },
+        {
+          "client_id": "1045589824734-mlgfcu65gmm0gkosv7mhabnt75t5cc3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrElaJAFiAgu4nTP1KaJ16yhUTvq86Gxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045589824734-mlgfcu65gmm0gkosv7mhabnt75t5cc3s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045589824734-98qrsbm4gf5ibr4qqpmvkofs3l2e1gvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bionic-tech.test.bionicTech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

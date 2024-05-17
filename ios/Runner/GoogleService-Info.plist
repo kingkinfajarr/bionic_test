@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1045589824734-98qrsbm4gf5ibr4qqpmvkofs3l2e1gvc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1045589824734-98qrsbm4gf5ibr4qqpmvkofs3l2e1gvc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1045589824734-8j6kjs5r9j9v6nsrl3u221mr9sl199nk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBK1q6W1K0gMGk56pYsYEDo8LFjpkSxlWg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1045589824734</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bionic-tech.test.bionicTech</string>
+	<key>PROJECT_ID</key>
+	<string>bionic-tech</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bionic-tech.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1045589824734:ios:af0f1e449a1faa0bcdde4f</string>
+</dict>
+</plist>
